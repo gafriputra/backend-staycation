@@ -15,5 +15,8 @@
     "mongoose": "^5.10.0",
     "morgan": "~1.9.1",
     "startbootstrap-sb-admin-2": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
